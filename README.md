@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Sarah
 
-My name is Sarah, and I graduated from [Le Wagon](https://www.lewagon.com/) as a web developer.  
+🎯 Front-end developer with a strong eye for detail and a passion for clean, user-friendly interfaces.
 
-🌱 Currently, I am actively working towards becoming a front-end developer, fueled by my passion for creating visually appealing and user-friendly experiences.
+💻 I mainly work with **React**, **Next.js**, and **TypeScript**, and I enjoy crafting front-end architectures that are both robust and elegant.
 
-Let's connect and build something together !
+🎨 With a creative background, I bring a design-sensitive approach to development — bridging the gap between UI/UX and code.
+
+🤝 Open to collaboration, freelance missions, or simply connecting with other tech enthusiasts!
